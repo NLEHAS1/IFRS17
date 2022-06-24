@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- MAGIC %python
+-- MAGIC display(dbutils.fs.ls("/mnt/sl1/DATA/SL1/20191231.v20220529_01/SourceData/CI/Symphony"))
